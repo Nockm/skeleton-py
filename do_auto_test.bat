@@ -1,0 +1,1 @@
+chokidar -i ".venv" -c "cls && do_single_test.bat" **.py **\*.py *.bat
